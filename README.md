@@ -1,4 +1,4 @@
-# Fundamentos da Prormação
+# Fundamentos da Programação
 ### Curso completo e gratuito de Fundamentos da Programação
 
 ## Videoaulas:
