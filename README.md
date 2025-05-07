@@ -12,6 +12,10 @@
 
 ### Aulas de Exercícios:
 
+1. [Ex. Variáveis](https://youtu.be/K36yAXqjpPE?si=mG5amLR3NACfa576)
+
 ### Extras:
+
+1. [Meu Github](https://youtu.be/pxWnrnoJsHc?si=qPiJLQoEF2F7CQwQ)
 
 # Em progresso...
